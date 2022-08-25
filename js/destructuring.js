@@ -35,3 +35,4 @@ function getNames(){
 }
 const [baba, caca] = getNames()
 console.log(baba,caca)
+
